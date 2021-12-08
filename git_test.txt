@@ -2,4 +2,12 @@ test1
 
 git_test_commit & push
 
+<<<<<<< HEAD
 local
+=======
+local
+
+branch_test
+
+branch_test2
+>>>>>>> branch_test
