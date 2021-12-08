@@ -2,4 +2,4 @@ main
 
 branch_1 branch_1
 
-branch_1_test
+branch_1_test branch_1_test
